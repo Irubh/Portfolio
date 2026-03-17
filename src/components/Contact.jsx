@@ -24,23 +24,23 @@ const Contact = () => {
             <p>
               🔗 <span className="font-semibold">LinkedIn:</span>{" "}
               <a
-                href="https://linkedin.com/in/abhishek-pandey-296b04250"
+                href="https://linkedin.com/in/Irubh"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:underline"
               >
-                linkedin.com/in/abhishek-pandey-296b04250
+                linkedin.com/in/Irubh
               </a>
             </p>
             <p>
               💻 <span className="font-semibold">GitHub:</span>{" "}
               <a
-                href="https://github.com/abhishekpandey33"
+                href="https://github.com/Irubh"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:underline"
               >
-                github.com/abhishekpandey33
+                github.com/Irubh
               </a>
             </p>
           </div>
